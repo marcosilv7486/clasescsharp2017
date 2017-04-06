@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2010\Projects\Semana01\Semana01\bin\Debug\Semana01.exe
+c:\users\administrador\documents\visual studio 2010\Projects\Semana01\Semana01\bin\Debug\Semana01.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\Semana01\Semana01\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\Semana01\Semana01\obj\x86\Debug\Semana01.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\Semana01\Semana01\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrador\documents\visual studio 2010\Projects\Semana01\Semana01\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrador\documents\visual studio 2010\Projects\Semana01\Semana01\obj\x86\Debug\Semana01.exe
+c:\users\administrador\documents\visual studio 2010\Projects\Semana01\Semana01\obj\x86\Debug\Semana01.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\Semana01\Semana01\obj\x86\Debug\Semana01.Form1.resources
